@@ -1,0 +1,55 @@
+<html>
+ <head>
+  <title> fotos </title>
+  <style> 
+  body {background-color:silver};
+ div.meio {position:absolute;
+                 top:100%;
+                 left:93%;
+                 border:2px solid white;
+                 padding:5px;
+                 color:black;
+                 border:2px;
+}
+    div.meio:hover {background-color:black; color:white;}
+ </style>
+ </head>
+ <body>
+ <p> <center> <h1> <font color=red> FOTOS </font> </h1> </center> </p>
+<tr>
+<td>
+ <center> <img width=600  src="1998.jpg"> </img> <p> Palestra - 1.998 </p> </center>
+</td>
+<td>
+ <center> <img width=600  src="Autoridade.jpg"> </img> <p> Autoridade - 2.011 </p> </center>
+</td>
+<td>
+<td>
+ <center> <img width=600  src="diretoria.JPG"> </img> <p>Diretoria - 2.014</p> </center>
+</td>
+<td>
+  <center> <img width=600  src="turma.JPG"> </img> <p>1ª Turma de Magistério-2.014 </p> </center>
+</td>
+</tr>
+<td>
+  <center> <img width=600  src="diretoria2.JPG"> </img> <p> Diretoria e Padrinhos-2.014 </p> </center>
+</td>
+</tr>
+<td>
+  <center> <img width=500  src="escolas.jpg"> </img> <p> E.E.São Vicente-2.019 </p> </center>
+</td>
+</tr>
+<tr>
+<td>
+ <center> <img width=600 src="frenteescola.png"> </img> <p> Frente Da Escola </p> <center>
+</td>
+</tr>
+<td>
+  <center> <img width=600  src="sao-vicente.jpg"> </img> <p>Fundo E.E.São Vicente-2.019 </p> </center>
+</td>
+</tr>
+<a href=inicial.html> <div class=meio >  INICIAL  </div> </a> 
+
+
+ </body>
+</html>

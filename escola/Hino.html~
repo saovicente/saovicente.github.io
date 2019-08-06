@@ -1,0 +1,43 @@
+<html>
+<head>
+<title> hino da escola </title>
+<style>
+ body {background-color: silver;}
+  div.meio {position:absolute;
+                 top:90%;
+                 left:88%;
+                 border:2px solid white;
+                 padding:5px;
+                 color:black;
+}
+     div.meio:hover {background-color:black; color:white;} 
+</style>
+<body> 
+<p> <center> <h1> <font color=blue> HINO DA ESCOLA ESTADUAL SÃO VICENTE </font> </H1> </CENTER> </P>
+<audio controls> <source src="HINO.mp3" type="audio/mpeg" /> </audio>
+
+<P> <h3>
+  Escola é tão importante<br>
+  Acolhedora e sempre feliz<br>
+  Muitas lutas a sempre vitórias<br>
+  São Vicente nossa raiz<br>
+  São Vicente nossa raiz</p>
+
+<p> 
+ Orgulho-me de você ó Escola<br>
+ Ensinando as tradições<br>
+ Ficará na minha memória<br>
+ São Vicente eterna raiz<br>
+ São Vicente eterna raiz</P>
+
+<p> 
+ Guardarei seu nome padroeiro<br>
+ Como o lider de um grande Herói<br>
+ Pois mostraste um reto caminho<br>
+ Á infância de Niterói<br>
+ Á infância de Niterói</h3> </P>
+
+<a href=inicial.html> <div class=meio >  INICIAL  </div> </a> 
+</body>
+</html>
+

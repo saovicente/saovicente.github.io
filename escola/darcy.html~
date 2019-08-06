@@ -1,0 +1,38 @@
+<html>
+ <head>
+ <title> Darcy </title>
+ <style>
+ body {background-color: silver;}
+  div.darcy {position:absolute;
+                 top:55%;
+                 left:160;
+		 width:100%;
+                 text-align:center;
+}
+ div.meio {position:absolute;
+                 top:100%;
+                 left:93%;
+                 border:2px solid white;
+                 padding:5px;
+                 color:black;
+ div.meio1:hover {background-color black;color:white;}
+ </style>
+ </head>
+<body>
+<p> <center> <h1>  <font color=red> A ACOLHIDA DO DARCY RIBEIRO </font> </h1> </center> </p>
+<p> A Escola Estadual São Vicente abriu as portas para abrangir os alunos da Escola Municipal Darcy Rbeiro. Por motivos de precaução por causa da febre maculosa </p>
+
+<p> A escola foi criada através da Lei Municipal nº 4312/98 de 17/02/98 para atender a demanda de Educação Infantil e Ensino Fundamental da região nordeste de Divinópolis. Até então era mantida pelo Estado com a denominação de "Recanto Infantil Bom Jesus" e funcionava no pátio da igreja do Bairro. Seu idealizador foi Padre Teodoro Gottembos, vigário da referida paróquia e um dos mais respeitados sacerdotes da cidade.
+
+Com a criação da escola municipal, recebeu o nome "Professor Darcy Ribeiro" em homenagem ao senador e educador Darcy Ribeiro, autor do projeto de lei da atual LDB - Lei de Diretrizes e Bases da Educação Nacional, vasta obra educacional e de literatura,tendo sido homenageado como título de Doutor "Honoris Causa", pelo Universidade de Sorbonne em Paris.</p>
+
+<p> Hoje estando com 10(dez) turmas. Duas salas de creche 3; Duas de primeiro periodo; Duas de segundo periodo; Duas de primeiro ano; Uma de segundo ano; Uma de terceiro ano; Com o total de 202 alunos. Com turmas no periodo da tarde,na Escola Estadual São Vicente. </p>
+
+<img width=400  src="darcy.jpg"> </img> </div> <div class=darcy > <img width=600  src="darcy1.jpg"> </img> </div> <br>
+
+<a href=inicial.html> <div class=meio1 >  INICIAL  </div> </a> 
+
+
+</body>
+</html>
+
